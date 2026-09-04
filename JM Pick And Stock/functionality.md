@@ -5,7 +5,7 @@ It is generated automatically by scripts/generate-app-info.ps1.
 
 - App path: apps/JM/JM Pick And Stock
 - App ID: 33a49749-ebb8-4b74-8585-4921b6a6c846
-- Version: 27.0.1.0
+- Version: 27.0.1.1
 
 ## Pages (UsageCategory <> None)
 
